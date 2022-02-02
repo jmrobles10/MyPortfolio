@@ -105,6 +105,8 @@ export const TagList = styled.ul`
 display: flex;
 justify-content: space-around;
 padding: 2rem;
+display: grid;
+grid-template-columns: repeat(2, 1fr);
 `
 export const Tag = styled.li`
 color: #d8bfbf;

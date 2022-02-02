@@ -19,7 +19,8 @@ const Footer = () => {
       </LinkList>
       <SocialIconsContainer>
         <CompanyContainer>
-          <Slogan>Keep Moving Forward</Slogan>
+          <Slogan>The only real mistake is the one from which
+we learn nothing</Slogan>
         </CompanyContainer>
         <SocialContainer>
           <SocialIcons href="https://github.com/jmrobles10?tab=repositories" target="_blank">
